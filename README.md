@@ -14,3 +14,6 @@ Collection of my notes and docs downloaded from courses
 	- Goal settings
 5. Web- Misc
 	- Web Dev Syllabus
+6. HTML
+	- https://github.com/hail2u/html-best-practices
+	- 
